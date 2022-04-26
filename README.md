@@ -1,2 +1,4 @@
 # Style-Square
- This is a Responsive Modern Landing Page
+This is a Responsive Modern Header 
+Technologies used.. 
+Html , CSS
