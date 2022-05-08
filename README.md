@@ -1,4 +1,4 @@
 # Style-Square
-This is a Responsive Modern Header 
-Technologies used.. 
+This is a Responsive Modern Website Header
+Technologies used..
 Html , CSS
